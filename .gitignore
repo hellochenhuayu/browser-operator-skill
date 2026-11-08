@@ -1,0 +1,17 @@
+# 运行时产物
+runtime/
+__pycache__/
+*.pyc
+
+# 浏览器资料与下载
+profile/
+downloads/
+screens/
+
+# 打包产物
+dist/*.zip
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
